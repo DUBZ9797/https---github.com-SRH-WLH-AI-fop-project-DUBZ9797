@@ -1,0 +1,497 @@
+[
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the medical term for excessive thirst?",
+        "correct_answer": "Polydipsia",
+        "incorrect_answers": [
+            "Polyuria",
+            "Polyphagia",
+            "Polyneuropathy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which part of the brain is responsible for regulating temperature and hunger?",
+        "correct_answer": "Hypothalamus",
+        "incorrect_answers": [
+            "Thalamus",
+            "Amygdala",
+            "Hippocampus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the main function of the lungs?",
+        "correct_answer": "Breathing",
+        "incorrect_answers": [
+            "Digestion",
+            "Circulation",
+            "Excretion"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which organ is responsible for filtering waste products from the blood?",
+        "correct_answer": "Kidney",
+        "incorrect_answers": [
+            "Liver",
+            "Pancreas",
+            "Spleen"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the medical term for the windpipe?",
+        "correct_answer": "Trachea",
+        "incorrect_answers": [
+            "Esophagus",
+            "Bronchus",
+            "Pharynx"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which vitamin is essential for healthy vision?",
+        "correct_answer": "Vitamin A",
+        "incorrect_answers": [
+            "Vitamin C",
+            "Vitamin D",
+            "Vitamin E"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the smallest bone in the human body?",
+        "correct_answer": "Stapes",
+        "incorrect_answers": [
+            "Femur",
+            "Tibia",
+            "Ulna"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which hormone is responsible for the 'fight or flight' response?",
+        "correct_answer": "Adrenaline",
+        "incorrect_answers": [
+            "Insulin",
+            "Thyroxine",
+            "Melatonin"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the medical term for a heart attack?",
+        "correct_answer": "Myocardial infarction",
+        "incorrect_answers": [
+            "Arrhythmia",
+            "Aneurysm",
+            "Angina"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which part of the digestive system is responsible for absorbing nutrients?",
+        "correct_answer": "Small intestine",
+        "incorrect_answers": [
+            "Stomach",
+            "Colon",
+            "Esophagus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the medical term for a 'nosebleed'?",
+        "correct_answer": "Epistaxis",
+        "incorrect_answers": [
+            "Hematuria",
+            "Dysphagia",
+            "Hemoptysis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which gland produces insulin?",
+        "correct_answer": "Pancreas",
+        "incorrect_answers": [
+            "Thyroid",
+            "Adrenal",
+            "Pituitary"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the medical term for the outer layer of the skin?",
+        "correct_answer": "Epidermis",
+        "incorrect_answers": [
+            "Dermis",
+            "Subcutis",
+            "Sebaceous"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the medical term for the kneecap?",
+        "correct_answer": "Patella",
+        "incorrect_answers": [
+            "Femur",
+            "Tibia",
+            "Fibula"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the medical term for the membrane that surrounds the brain and spinal cord?",
+        "correct_answer": "Meninges",
+        "incorrect_answers": [
+            "Myelin",
+            "Mucosa",
+            "Meniscus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the medical term for a 'pinched nerve'?",
+        "correct_answer": "Sciatica",
+        "incorrect_answers": [
+            "Scoliosis",
+            "Tendinitis",
+            "Carpal tunnel syndrome"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which blood vessel carries oxygen-rich blood away from the heart?",
+        "correct_answer": "Artery",
+        "incorrect_answers": [
+            "Vein",
+            "Capillary",
+            "Ventricle"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the medical term for an abnormal heart rhythm?",
+        "correct_answer": "Arrhythmia",
+        "incorrect_answers": [
+            "Bradycardia",
+            "Tachycardia",
+            "Palpitations"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the medical term for the surgical removal of the gallbladder?",
+        "correct_answer": "Cholecystectomy",
+        "incorrect_answers": [
+            "Appendectomy",
+            "Laparoscopy",
+            "Hysterectomy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the medical term for difficulty swallowing?",
+        "correct_answer": "Dysphagia",
+        "incorrect_answers": [
+            "Dyspepsia",
+            "Dyspnea",
+            "Dystonia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the largest artery in the human body?",
+        "correct_answer": "Aorta",
+        "incorrect_answers": [
+            "Pulmonary artery",
+            "Coronary artery",
+            "Carotid artery"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of the following is NOT a type of white blood cell?",
+        "correct_answer": "Thrombocyte",
+        "incorrect_answers": [
+            "Neutrophil",
+            "Eosinophil",
+            "Monocyte"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the medical term for the surgical removal of the gallbladder?",
+        "correct_answer": "Cholecystectomy",
+        "incorrect_answers": [
+            "Appendectomy",
+            "Laparoscopy",
+            "Hysterectomy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "very hard",
+        "question": "Which part of the brain is responsible for regulating temperature and hunger?",
+        "correct_answer": "Hypothalamus",
+        "incorrect_answers": [
+            "Thalamus",
+            "Amygdala",
+            "Hippocampus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "very hard",
+        "question": "What is the medical term for a 'pinched nerve'?",
+        "correct_answer": "Sciatica",
+        "incorrect_answers": [
+            "Scoliosis",
+            "Tendinitis",
+            "Carpal tunnel syndrome"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "very hard",
+        "question": "Which enzyme is deficient in individuals with phenylketonuria (PKU)?",
+        "correct_answer": "Phenylalanine hydroxylase",
+        "incorrect_answers": [
+            "Tyrosine hydroxylase",
+            "Phenylalanine deaminase",
+            "Tyrosinase"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "very hard",
+        "question": "What is the medical term for the formation of kidney stones?",
+        "correct_answer": "Nephrolithiasis",
+        "incorrect_answers": [
+            "Nephritis",
+            "Nephrosis",
+            "Nephroptosis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "very hard",
+        "question": "Which hormone is responsible for the regulation of calcium levels in the blood?",
+        "correct_answer": "Parathyroid hormone",
+        "incorrect_answers": [
+            "Calcitonin",
+            "Thyroid hormone",
+            "Cortisol"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "very hard",
+        "question": "What is the medical term for the abnormal enlargement of the thyroid gland?",
+        "correct_answer": "Goiter",
+        "incorrect_answers": [
+            "Thyroiditis",
+            "Hyperthyroidism",
+            "Hypothyroidism"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "very hard",
+        "question": "Which condition is characterized by the abnormal growth of fibrous tissue in the lungs?",
+        "correct_answer": "Pulmonary fibrosis",
+        "incorrect_answers": [
+            "Emphysema",
+            "Bronchiectasis",
+            "Pneumothorax"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "very hard",
+        "question": "What is the medical term for the condition characterized by the inflammation of the liver?",
+        "correct_answer": "Hepatitis",
+        "incorrect_answers": [
+            "Cirrhosis",
+            "Cholecystitis",
+            "Pancreatitis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "very hard",
+        "question": "Which neurological disorder is characterized by the degeneration of dopamine-producing neurons?",
+        "correct_answer": "Parkinson's disease",
+        "incorrect_answers": [
+            "Huntington's disease",
+            "Multiple sclerosis",
+            "Amyotrophic lateral sclerosis (ALS)"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "very hard",
+        "question": "What is the medical term for the loss of muscle mass and strength?",
+        "correct_answer": "Sarcopenia",
+        "incorrect_answers": [
+            "Osteoporosis",
+            "Atrophy",
+            "Dystrophy"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "very hard",
+        "question": "Which autoimmune disease is characterized by the destruction of insulin-producing cells in the pancreas?",
+        "correct_answer": "Type 1 diabetes",
+        "incorrect_answers": [
+            "Type 2 diabetes",
+            "Gestational diabetes",
+            "Celiac disease"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "very hard",
+        "question": "What is the medical term for the abnormal curvature of the spine?",
+        "correct_answer": "Scoliosis",
+        "incorrect_answers": [
+            "Kyphosis",
+            "Lordosis",
+            "Ankylosis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which part of the brain is responsible for regulating breathing and heartbeat?",
+        "correct_answer": "Medulla oblongata",
+        "incorrect_answers": [
+            "Cerebellum",
+            "Hypothalamus",
+            "Thalamus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the primary function of the sinoatrial (SA) node in the heart?",
+        "correct_answer": "Initiating electrical impulses for cardiac contraction",
+        "incorrect_answers": [
+            "Regulating blood pressure",
+            "Producing red blood cells",
+            "Filtering waste products"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which hormone is responsible for the regulation of blood sugar levels?",
+        "correct_answer": "Insulin",
+        "incorrect_answers": [
+            "Glucagon",
+            "Thyroxine",
+            "Cortisol"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the name of the condition characterized by the inflammation of the meninges?",
+        "correct_answer": "Meningitis",
+        "incorrect_answers": [
+            "Encephalitis",
+            "Neuritis",
+            "Myelitis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which disorder is characterized by the abnormal accumulation of fluid in the brain?",
+        "correct_answer": "Hydrocephalus",
+        "incorrect_answers": [
+            "Meningioma",
+            "Cerebral edema",
+            "Subdural hematoma"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the medical term for the loss of consciousness due to inadequate blood flow to the brain?",
+        "correct_answer": "Syncope",
+        "incorrect_answers": [
+            "Coma",
+            "Seizure",
+            "Hypoxia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which structure in the eye is responsible for focusing light onto the retina?",
+        "correct_answer": "Lens",
+        "incorrect_answers": [
+            "Cornea",
+            "Iris",
+            "Optic nerve"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the primary function of the nephron in the kidney?",
+        "correct_answer": "Filtering blood and producing urine",
+        "incorrect_answers": [
+            "Regulating blood pressure",
+            "Producing hormones",
+            "Storing urine"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which condition is characterized by the abnormal enlargement of the liver and spleen?",
+        "correct_answer": "Hepatomegaly",
+        "incorrect_answers": [
+            "Cirrhosis",
+            "Pancreatitis",
+            "Cholecystitis"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "What is the medical term for the condition characterized by the enlargement of lymph nodes?",
+        "correct_answer": "Lymphadenopathy",
+        "incorrect_answers": [
+            "Lymphedema",
+            "Lymphoma",
+            "Leukemia"
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+import json 
+
+filename = 'GUI-Quiz-Tkinter-master\question1.json'  
+
+try:
+    with open(filename, 'r') as file:
+        data = json.load(file)
+        #count the number of questions
+        num_questions = len(data)
+
+        print(f"Total number of questions:{filename}")
+except FileNotFoundError:
+    print(f"File not found: {filename}")
+except Exception as e:
+    print(f"An error occurred: {e}")
